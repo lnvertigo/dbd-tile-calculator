@@ -1,4 +1,4 @@
-#import <stdio.h>
-#import <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-#include "tilelist.h"
+#include "tile-list.h"
